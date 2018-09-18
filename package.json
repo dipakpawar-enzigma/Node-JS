@@ -1,0 +1,26 @@
+{
+  "name": "firstnodeapplication",
+  "version": "1.0.0",
+  "description": "first node application",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "firstnodeapplication"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipakpawar-enzigma/Node-JS.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Dipak Pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipakpawar-enzigma/Node-JS/issues"
+  },
+  "homepage": "https://github.com/dipakpawar-enzigma/Node-JS#readme"
+}
